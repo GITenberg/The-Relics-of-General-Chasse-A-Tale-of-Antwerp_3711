@@ -1,0 +1,26 @@
+_repo: The-Relics-of-General-Chasse-A-Tale-of-Antwerp_3711
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: ''
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3711'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clergy -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Humorous stories'
+- !lcsh 'Short stories'
+- !lcsh 'British -- Belgium -- Fiction'
+title: 'The Relics of General Chasse: A Tale of Antwerp'
+url: http://www.gutenberg.org/ebooks/3711
