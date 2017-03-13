@@ -1,5 +1,8 @@
 _repo: The-Relics-of-General-Chasse-A-Tale-of-Antwerp_3711
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trollope, Anthony
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/324
     wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3711#The-Relics-of-General-Chasse-A-Tale-of-Antwerp
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
 identifiers:
