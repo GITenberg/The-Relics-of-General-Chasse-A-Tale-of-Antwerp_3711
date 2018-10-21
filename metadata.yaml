@@ -1,5 +1,5 @@
 _repo: The-Relics-of-General-Chasse-A-Tale-of-Antwerp_3711
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Humorous stories'
 - !lcsh 'Short stories'
 - !lcsh 'British -- Belgium -- Fiction'
+- GITenberg
 title: 'The Relics of General Chasse: A Tale of Antwerp'
 url: http://www.gutenberg.org/ebooks/3711
